@@ -202,7 +202,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
   Open PowerShell_ise as an administrator.
 </p> 
 <p>  
-  Create a new File and paste the contents of this script (https://github.com/Xinloiazn/configure-ad/blob/main/adscript.ps1) into it:
+  Create a new File and paste the contents of this script (https://github.com/Dakalo-Ndonde15/Configure-AD/blob/main/adscript.ps1) into it:
 </p>
 <p>
   <img src="https://i.imgur.com/0i8uApf.png" height="75%" width="100%" alt="create users script"/>
